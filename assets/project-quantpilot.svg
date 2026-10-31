@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="310" viewBox="0 0 420 310" role="img" aria-label="Project 03. QuantPilot OS, an algorithmic trading and market simulation platform. FastAPI backend and dashboard architecture, historical CSV market-data replay, moving average, VWAP and RSI strategies, live data communication over WebSockets, kill-switch mechanism for trading safety. Stack: Python, FastAPI, PostgreSQL, WebSockets, React.">
+  <title>QuantPilot OS</title>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3dffa0"/>
+      <stop offset="1" stop-color="#00f7ff"/>
+    </linearGradient>
+    <linearGradient id="bgc" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1626"/>
+      <stop offset="1" stop-color="#0a0e17"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text{font-family:'Fira Code','JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}
+    .run{stroke-dasharray:140 860;animation:run 6s linear infinite}
+    @keyframes run{to{stroke-dashoffset:-1000}}
+    .num{font-size:11px;letter-spacing:3px;fill:#7a8aa8}
+    .ttl{font-size:17px;font-weight:700;fill:#e6f1ff;letter-spacing:.5px}
+    .sub{font-size:12px;fill:#00f7ff}
+    .b{opacity:0;animation:in .6s ease-out both}
+    @keyframes in{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:translateX(0)}}
+    .bt{font-size:12px;fill:#c9d6ee}
+    .lab{font-size:10px;letter-spacing:2px;fill:#7a8aa8}
+    .stk{font-size:11.5px;fill:#9fb0cf}
+    .pulse{animation:pulse 1.2s ease-in-out infinite}
+    @keyframes pulse{50%{opacity:.2}}
+    .spark{stroke-dasharray:130;stroke-dashoffset:130;animation:spark 4s ease-in-out infinite}
+    @keyframes spark{0%{stroke-dashoffset:130}55%,85%{stroke-dashoffset:0}100%{stroke-dashoffset:-130}}
+  </style>
+  <rect x="1" y="1" width="418" height="308" rx="16" fill="url(#bgc)" stroke="#1c2740"/>
+  <rect x="1" y="1" width="418" height="308" rx="16" fill="none" stroke="url(#edge)" stroke-width="2" pathLength="1000" class="run"/>
+
+  <text class="num" x="24" y="34">03 / PROJECT</text>
+  <text class="ttl" x="24" y="62">QUANTPILOT OS</text>
+  <text class="sub" x="24" y="84">Algo Trading &amp; Market Simulation</text>
+
+  <rect x="324" y="14" width="72" height="22" rx="11" fill="#ff5f56" fill-opacity=".12" stroke="#ff5f56"/>
+  <circle cx="338" cy="25" r="3.5" fill="#ff5f56" class="pulse"/>
+  <text x="347" y="29" font-size="10.5" font-weight="700" fill="#ff5f56">ARMED</text>
+  <polyline class="spark" points="322,70 336,63 348,66 360,55 372,59 384,46 398,50" fill="none" stroke="#3dffa0" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <line x1="24" y1="100" x2="396" y2="100" stroke="#1c2740"/>
+
+  <g class="b" style="animation-delay:.3s"><path d="M28 118l6 4-6 4z" fill="#3dffa0"/><text class="bt" x="44" y="127">FastAPI backend and dashboard architecture</text></g>
+  <g class="b" style="animation-delay:.6s"><path d="M28 141l6 4-6 4z" fill="#3dffa0"/><text class="bt" x="44" y="150">Historical CSV market-data replay</text></g>
+  <g class="b" style="animation-delay:.9s"><path d="M28 164l6 4-6 4z" fill="#3dffa0"/><text class="bt" x="44" y="173">Moving average, VWAP and RSI strategies</text></g>
+  <g class="b" style="animation-delay:1.2s"><path d="M28 187l6 4-6 4z" fill="#3dffa0"/><text class="bt" x="44" y="196">Live data communication over WebSockets</text></g>
+  <g class="b" style="animation-delay:1.5s"><path d="M28 210l6 4-6 4z" fill="#3dffa0"/><text class="bt" x="44" y="219">Kill-switch mechanism for trading safety</text></g>
+
+  <line x1="24" y1="232" x2="396" y2="232" stroke="#1c2740"/>
+  <text class="lab" x="24" y="250">STACK</text>
+  <text class="stk" x="24" y="268">Python &#183; FastAPI &#183; PostgreSQL</text>
+  <text class="stk" x="24" y="286">WebSockets &#183; React</text>
+</svg>

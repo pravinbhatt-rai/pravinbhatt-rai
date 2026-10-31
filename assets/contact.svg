@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-label="Have an interesting project? Let's build it. Get in touch: bhattaraipravin455@gmail.com">
+  <title>Get in touch</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b14"/>
+      <stop offset="1" stop-color="#140b2e"/>
+    </linearGradient>
+    <linearGradient id="hd" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#00f7ff"/>
+      <stop offset=".5" stop-color="#7c5cff"/>
+      <stop offset="1" stop-color="#ff4fd8"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.5 0;0.5 0;-0.5 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="btn" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f7ff"/>
+      <stop offset="1" stop-color="#7c5cff"/>
+    </linearGradient>
+    <pattern id="stripes" width="30" height="30" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="2" height="30" fill="#00f7ff" fill-opacity=".05"/>
+      <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="30 0" dur="3s" repeatCount="indefinite" additive="sum"/>
+    </pattern>
+    <filter id="bl" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="30"/></filter>
+    <clipPath id="rc"><rect width="900" height="250" rx="18"/></clipPath>
+  </defs>
+  <style>
+    text{font-family:'Fira Code','JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}
+    .h1{font-size:24px;font-weight:700;letter-spacing:3px;fill:#e6f1ff;text-anchor:middle;clip-path:inset(0 100% 0 0);animation:type 2s steps(28,end) .3s both}
+    @keyframes type{to{clip-path:inset(0 0 0 0)}}
+    .h2{font-size:44px;font-weight:800;letter-spacing:3px;fill:url(#hd);text-anchor:middle;opacity:0;animation:pop .8s cubic-bezier(.2,1.4,.4,1) 2.3s forwards;transform-box:fill-box;transform-origin:center}
+    @keyframes pop{from{opacity:0;transform:scale(.85)}to{opacity:1;transform:scale(1)}}
+    .bt{font-size:16px;font-weight:700;letter-spacing:3px;fill:#04101a;text-anchor:middle}
+    .em{font-size:12px;fill:#7a8aa8;text-anchor:middle;letter-spacing:1px}
+    .ring{transform-box:fill-box;transform-origin:center;animation:ring 2.4s ease-out infinite}
+    @keyframes ring{from{transform:scale(1);opacity:.8}to{transform:scale(1.35,1.9);opacity:0}}
+    .btn{transform-box:fill-box;transform-origin:center;animation:bob 2.4s ease-in-out infinite alternate}
+    @keyframes bob{from{transform:scale(1)}to{transform:scale(1.04)}}
+  </style>
+  <g clip-path="url(#rc)">
+    <rect width="900" height="250" fill="url(#bg)"/>
+    <circle cx="150" cy="60" r="90" fill="#00f7ff" opacity=".18" filter="url(#bl)">
+      <animate attributeName="cx" values="150;260;150" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="200" r="100" fill="#ff4fd8" opacity=".16" filter="url(#bl)">
+      <animate attributeName="cx" values="760;640;760" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <rect width="900" height="250" fill="url(#stripes)"/>
+
+    <text class="h1" x="450" y="56">HAVE AN INTERESTING PROJECT?</text>
+    <text class="h2" x="450" y="116">LET'S BUILD IT.</text>
+
+    <g transform="translate(450 164)">
+      <rect class="ring" x="-120" y="-24" width="240" height="48" rx="24" fill="none" stroke="#00f7ff"/>
+      <rect class="ring" x="-120" y="-24" width="240" height="48" rx="24" fill="none" stroke="#7c5cff" style="animation-delay:1.2s"/>
+      <g class="btn">
+        <rect x="-120" y="-24" width="240" height="48" rx="24" fill="url(#btn)"/>
+        <text class="bt" x="0" y="6">GET IN TOUCH</text>
+      </g>
+    </g>
+    <text class="em" x="450" y="226">bhattaraipravin455@gmail.com</text>
+  </g>
+  <rect x=".5" y=".5" width="899" height="249" rx="18" fill="none" stroke="#1c2740"/>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Full Stack Developer Intern at Six India Private Limited, Six Buy and Sell, October 2025 to March 2026. Worked on full-stack development and real-world product engineering. Contributed to backend functionality, frontend development and API integrations. Improved technical SEO, metadata, structured data and website crawlability. Worked on application performance and user-facing product features.">
+  <title>Full Stack Developer Intern, Six India Private Limited</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f7ff"/>
+      <stop offset="1" stop-color="#7c5cff"/>
+    </linearGradient>
+    <clipPath id="rc"><rect width="900" height="300" rx="14"/></clipPath>
+  </defs>
+  <style>
+    text{font-family:'Fira Code','JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}
+    .tag{font-size:11px;letter-spacing:3px;fill:#00f7ff;fill-opacity:.8}
+    .role{font-size:24px;font-weight:700;fill:#e6f1ff;clip-path:inset(0 100% 0 0);animation:type 1.4s steps(27,end) .3s both}
+    @keyframes type{to{clip-path:inset(0 0 0 0)}}
+    .co{font-size:14px;fill:#00f7ff;opacity:0;animation:fadein 1s ease 1.4s forwards}
+    @keyframes fadein{to{opacity:1}}
+    .dt{font-size:13px;fill:#e6f1ff}
+    .b{opacity:0;animation:in .6s ease-out both}
+    @keyframes in{from{opacity:0;transform:translateX(-14px)}to{opacity:1;transform:translateX(0)}}
+    .bt{font-size:14px;fill:#c9d6ee}
+    .mo{font-size:12px;fill:#7a8aa8;text-anchor:middle}
+    .code{font-size:100px;font-weight:700;fill:#00f7ff;opacity:.07;text-anchor:middle;animation:float 5s ease-in-out infinite alternate}
+    @keyframes float{from{transform:translateY(-8px)}to{transform:translateY(8px)}}
+    .pulse{animation:pulse 2s ease-in-out infinite}
+    @keyframes pulse{50%{opacity:.35}}
+  </style>
+  <g clip-path="url(#rc)">
+    <rect width="900" height="300" fill="#0a0e17"/>
+    <text class="code" x="770" y="180">&lt;/&gt;</text>
+
+    <text class="tag" x="40" y="36">// EXPERIENCE.LOG</text>
+    <text class="role" x="40" y="72">Full Stack Developer Intern</text>
+    <text class="co" x="40" y="98">Six India Private Limited | Six Buy &amp; Sell</text>
+
+    <rect x="688" y="30" width="172" height="30" rx="15" fill="#00f7ff" fill-opacity=".08" stroke="#00f7ff" class="pulse"/>
+    <text class="dt" x="774" y="50" text-anchor="middle">Oct 2025 &#8211; Mar 2026</text>
+
+    <g class="b" style="animation-delay:1.4s"><path d="M42 126l7 4.5-7 4.5z" fill="#00f7ff"/><text class="bt" x="64" y="136">Full-stack development and real-world product engineering</text></g>
+    <g class="b" style="animation-delay:1.8s"><path d="M42 152l7 4.5-7 4.5z" fill="#00f7ff"/><text class="bt" x="64" y="162">Backend functionality, frontend development, API integrations</text></g>
+    <g class="b" style="animation-delay:2.2s"><path d="M42 178l7 4.5-7 4.5z" fill="#00f7ff"/><text class="bt" x="64" y="188">Technical SEO, metadata, structured data, website crawlability</text></g>
+    <g class="b" style="animation-delay:2.6s"><path d="M42 204l7 4.5-7 4.5z" fill="#00f7ff"/><text class="bt" x="64" y="214">Application performance and user-facing product features</text></g>
+
+    <rect x="40" y="244" width="820" height="6" rx="3" fill="#1c2740"/>
+    <rect x="40" y="244" width="0" height="6" rx="3" fill="url(#g)">
+      <animate attributeName="width" values="0;820;820;0" keyTimes="0;.7;.9;1" dur="7s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="40" cy="247" r="7" fill="#00f7ff">
+      <animate attributeName="cx" values="40;860;860;40" keyTimes="0;.7;.9;1" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <g stroke="#1c2740">
+      <line x1="40" y1="240" x2="40" y2="254"/>
+      <line x1="176.7" y1="240" x2="176.7" y2="254"/>
+      <line x1="313.3" y1="240" x2="313.3" y2="254"/>
+      <line x1="450" y1="240" x2="450" y2="254"/>
+      <line x1="586.7" y1="240" x2="586.7" y2="254"/>
+      <line x1="723.3" y1="240" x2="723.3" y2="254"/>
+      <line x1="860" y1="240" x2="860" y2="254"/>
+    </g>
+    <text class="mo" x="108.3" y="276">Oct 2025</text>
+    <text class="mo" x="245" y="276">Nov</text>
+    <text class="mo" x="381.7" y="276">Dec</text>
+    <text class="mo" x="518.3" y="276">Jan 2026</text>
+    <text class="mo" x="655" y="276">Feb</text>
+    <text class="mo" x="791.7" y="276">Mar</text>
+  </g>
+  <rect x=".5" y=".5" width="899" height="299" rx="14" fill="none" stroke="#1c2740"/>
+</svg>

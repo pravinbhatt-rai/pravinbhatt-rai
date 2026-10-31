@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Areas of focus: Data Structures and Algorithms, Dynamic Programming, Graph Algorithms, Trees and Binary Search, Greedy Algorithms, Sliding Window and Two Pointers, SQL and Database Optimization, System Design.">
+  <title>Problem solving focus areas</title>
+  <style>
+    text{font-family:'Fira Code','JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}
+    .f{animation:float 5s ease-in-out infinite alternate}
+    @keyframes float{from{transform:translateY(-5px)}to{transform:translateY(5px)}}
+    .c{font-size:14px;font-weight:700;fill:#e6f1ff;text-anchor:middle}
+    .flow{stroke-dasharray:6 8;animation:flow 2s linear infinite}
+    @keyframes flow{to{stroke-dashoffset:-28}}
+    .ping{transform-box:fill-box;transform-origin:center;animation:ping 2.6s ease-out infinite}
+    @keyframes ping{from{transform:scale(1);opacity:.8}to{transform:scale(3.2);opacity:0}}
+  </style>
+  <rect width="900" height="220" rx="14" fill="#0a0e17"/>
+  <rect x=".5" y=".5" width="899" height="219" rx="14" fill="none" stroke="#1c2740"/>
+  <line class="flow" x1="30" y1="110" x2="870" y2="110" stroke="#00f7ff" stroke-opacity=".35"/>
+
+  <g class="f" style="animation-duration:4.6s;animation-delay:-1s"><g transform="translate(20 24)">
+    <rect width="200" height="70" rx="14" fill="#0f1626" stroke="#00f7ff" stroke-opacity=".6"/>
+    <circle cx="22" cy="20" r="4" fill="#00f7ff"/><circle class="ping" cx="22" cy="20" r="4" fill="none" stroke="#00f7ff"/>
+    <text class="c" x="100" y="34">Data Structures</text><text class="c" x="100" y="54">&amp; Algorithms</text></g></g>
+  <g class="f" style="animation-duration:5.4s;animation-delay:-3s"><g transform="translate(240 24)">
+    <rect width="200" height="70" rx="14" fill="#0f1626" stroke="#9d86ff" stroke-opacity=".6"/>
+    <circle cx="22" cy="20" r="4" fill="#9d86ff"/><circle class="ping" cx="22" cy="20" r="4" fill="none" stroke="#9d86ff" style="animation-delay:.6s"/>
+    <text class="c" x="100" y="34">Dynamic</text><text class="c" x="100" y="54">Programming</text></g></g>
+  <g class="f" style="animation-duration:4.9s;animation-delay:-2s"><g transform="translate(460 24)">
+    <rect width="200" height="70" rx="14" fill="#0f1626" stroke="#ff4fd8" stroke-opacity=".6"/>
+    <circle cx="22" cy="20" r="4" fill="#ff4fd8"/><circle class="ping" cx="22" cy="20" r="4" fill="none" stroke="#ff4fd8" style="animation-delay:1.2s"/>
+    <text class="c" x="100" y="34">Graph</text><text class="c" x="100" y="54">Algorithms</text></g></g>
+  <g class="f" style="animation-duration:5.8s;animation-delay:-4s"><g transform="translate(680 24)">
+    <rect width="200" height="70" rx="14" fill="#0f1626" stroke="#3dffa0" stroke-opacity=".6"/>
+    <circle cx="22" cy="20" r="4" fill="#3dffa0"/><circle class="ping" cx="22" cy="20" r="4" fill="none" stroke="#3dffa0" style="animation-delay:1.8s"/>
+    <text class="c" x="100" y="34">Trees and</text><text class="c" x="100" y="54">Binary Search</text></g></g>
+
+  <g class="f" style="animation-duration:5.2s;animation-delay:-2.5s"><g transform="translate(20 126)">
+    <rect width="200" height="70" rx="14" fill="#0f1626" stroke="#3dffa0" stroke-opacity=".6"/>
+    <circle cx="22" cy="20" r="4" fill="#3dffa0"/><circle class="ping" cx="22" cy="20" r="4" fill="none" stroke="#3dffa0" style="animation-delay:.3s"/>
+    <text class="c" x="100" y="34">Greedy</text><text class="c" x="100" y="54">Algorithms</text></g></g>
+  <g class="f" style="animation-duration:4.4s;animation-delay:-.5s"><g transform="translate(240 126)">
+    <rect width="200" height="70" rx="14" fill="#0f1626" stroke="#ff4fd8" stroke-opacity=".6"/>
+    <circle cx="22" cy="20" r="4" fill="#ff4fd8"/><circle class="ping" cx="22" cy="20" r="4" fill="none" stroke="#ff4fd8" style="animation-delay:.9s"/>
+    <text class="c" x="100" y="34">Sliding Window &amp;</text><text class="c" x="100" y="54">Two Pointers</text></g></g>
+  <g class="f" style="animation-duration:5.6s;animation-delay:-3.5s"><g transform="translate(460 126)">
+    <rect width="200" height="70" rx="14" fill="#0f1626" stroke="#9d86ff" stroke-opacity=".6"/>
+    <circle cx="22" cy="20" r="4" fill="#9d86ff"/><circle class="ping" cx="22" cy="20" r="4" fill="none" stroke="#9d86ff" style="animation-delay:1.5s"/>
+    <text class="c" x="100" y="34">SQL &amp; Database</text><text class="c" x="100" y="54">Optimization</text></g></g>
+  <g class="f" style="animation-duration:4.8s;animation-delay:-1.5s"><g transform="translate(680 126)">
+    <rect width="200" height="70" rx="14" fill="#0f1626" stroke="#00f7ff" stroke-opacity=".6"/>
+    <circle cx="22" cy="20" r="4" fill="#00f7ff"/><circle class="ping" cx="22" cy="20" r="4" fill="none" stroke="#00f7ff" style="animation-delay:2.1s"/>
+    <text class="c" x="100" y="34">System</text><text class="c" x="100" y="54">Design</text></g></g>
+</svg>

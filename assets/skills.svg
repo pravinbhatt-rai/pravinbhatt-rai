@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="400" viewBox="0 0 900 400" role="img" aria-label="Technical arsenal. Languages and frontend: C++, Python, Java, JavaScript, TypeScript, React, Next.js, HTML5, CSS3, Tailwind CSS, Vite. Backend and data: FastAPI, Node.js, Express, Spring, PostgreSQL, MongoDB, Redis, MySQL, REST API design, WebSockets, OAuth. AI, cloud and DevOps: LLMs, RAG, LangChain, LangGraph, AI agents, prompting, AWS, Docker, Nginx, Linux, Git, GitHub, GitHub Actions. Tools and engineering areas: VS Code, IntelliJ IDEA, Postman, Bash, authentication, CI/CD, microservices, technical SEO, schema markup, database optimization, system design.">
+  <title>Technical arsenal</title>
+  <defs>
+    <linearGradient id="fg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".07" stop-color="#fff"/>
+      <stop offset=".93" stop-color="#fff"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <mask id="fade"><rect width="900" height="400" fill="url(#fg)"/></mask>
+    <clipPath id="rc"><rect width="900" height="400" rx="14"/></clipPath>
+    <g id="pl">
+      <rect width="156" height="40" rx="20" fill="#0f1626" stroke="currentColor" stroke-opacity=".55"/>
+      <circle cx="20" cy="20" r="4" fill="currentColor"/>
+    </g>
+    <g id="r1">
+      <g transform="translate(0 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">C++</text></g>
+      <g transform="translate(172 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Python</text></g>
+      <g transform="translate(344 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Java</text></g>
+      <g transform="translate(516 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">JavaScript</text></g>
+      <g transform="translate(688 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">TypeScript</text></g>
+      <g transform="translate(860 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">React</text></g>
+      <g transform="translate(1032 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Next.js</text></g>
+      <g transform="translate(1204 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">HTML5</text></g>
+      <g transform="translate(1376 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">CSS3</text></g>
+      <g transform="translate(1548 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Tailwind CSS</text></g>
+      <g transform="translate(1720 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Vite</text></g>
+    </g>
+    <g id="r2">
+      <g transform="translate(0 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">FastAPI</text></g>
+      <g transform="translate(172 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Node.js</text></g>
+      <g transform="translate(344 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Express</text></g>
+      <g transform="translate(516 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Spring</text></g>
+      <g transform="translate(688 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">PostgreSQL</text></g>
+      <g transform="translate(860 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">MongoDB</text></g>
+      <g transform="translate(1032 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Redis</text></g>
+      <g transform="translate(1204 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">MySQL</text></g>
+      <g transform="translate(1376 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">REST API Design</text></g>
+      <g transform="translate(1548 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">WebSockets</text></g>
+      <g transform="translate(1720 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">OAuth</text></g>
+    </g>
+    <g id="r3">
+      <g transform="translate(0 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">LLMs</text></g>
+      <g transform="translate(172 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">RAG</text></g>
+      <g transform="translate(344 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">LangChain</text></g>
+      <g transform="translate(516 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">LangGraph</text></g>
+      <g transform="translate(688 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">AI Agents</text></g>
+      <g transform="translate(860 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Prompting</text></g>
+      <g transform="translate(1032 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">AWS</text></g>
+      <g transform="translate(1204 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Docker</text></g>
+      <g transform="translate(1376 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Nginx</text></g>
+      <g transform="translate(1548 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Linux</text></g>
+      <g transform="translate(1720 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Git</text></g>
+      <g transform="translate(1892 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">GitHub</text></g>
+      <g transform="translate(2064 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">GitHub Actions</text></g>
+    </g>
+    <g id="r4">
+      <g transform="translate(0 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">VS Code</text></g>
+      <g transform="translate(172 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">IntelliJ IDEA</text></g>
+      <g transform="translate(344 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Postman</text></g>
+      <g transform="translate(516 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Bash</text></g>
+      <g transform="translate(688 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Authentication</text></g>
+      <g transform="translate(860 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">CI/CD</text></g>
+      <g transform="translate(1032 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Microservices</text></g>
+      <g transform="translate(1204 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Technical SEO</text></g>
+      <g transform="translate(1376 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">Schema Markup</text></g>
+      <g transform="translate(1548 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">DB Optimization</text></g>
+      <g transform="translate(1720 0)"><use href="#pl" xlink:href="#pl"/><text x="92" y="25">System Design</text></g>
+    </g>
+  </defs>
+  <style>
+    text{font-family:'Fira Code','JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}
+    #r1 text,#r2 text,#r3 text,#r4 text{font-size:13px;fill:#e6f1ff;text-anchor:middle}
+    .lab{font-size:11px;letter-spacing:3px;fill:#7a8aa8}
+    .m1{animation:l1 42s linear infinite}
+    .m2{animation:r2 42s linear infinite}
+    .m3{animation:l3 52s linear infinite}
+    .m4{animation:r4 42s linear infinite}
+    @keyframes l1{to{transform:translateX(-1892px)}}
+    @keyframes r2{from{transform:translateX(-1892px)}to{transform:translateX(0)}}
+    @keyframes l3{to{transform:translateX(-2236px)}}
+    @keyframes r4{from{transform:translateX(-1892px)}to{transform:translateX(0)}}
+    .pulse{animation:pulse 1.6s ease-in-out infinite}
+    @keyframes pulse{50%{opacity:.2}}
+  </style>
+
+  <g clip-path="url(#rc)">
+    <rect width="900" height="400" fill="#0a0e17"/>
+
+    <circle cx="28" cy="22" r="3" fill="#00f7ff" class="pulse"/>
+    <text class="lab" x="40" y="26">LANGUAGES &amp; FRONTEND</text>
+    <circle cx="28" cy="122" r="3" fill="#9d86ff" class="pulse" style="animation-delay:.4s"/>
+    <text class="lab" x="40" y="126">BACKEND &amp; DATA</text>
+    <circle cx="28" cy="222" r="3" fill="#ff4fd8" class="pulse" style="animation-delay:.8s"/>
+    <text class="lab" x="40" y="226">AI &#183; AGENTS &#183; CLOUD &#183; DEVOPS</text>
+    <circle cx="28" cy="322" r="3" fill="#3dffa0" class="pulse" style="animation-delay:1.2s"/>
+    <text class="lab" x="40" y="326">TOOLS &amp; ENGINEERING AREAS</text>
+
+    <g mask="url(#fade)">
+      <g transform="translate(0 38)" style="color:#00f7ff"><g class="m1"><use href="#r1" xlink:href="#r1"/><use href="#r1" xlink:href="#r1" x="1892"/></g></g>
+      <g transform="translate(0 138)" style="color:#9d86ff"><g class="m2"><use href="#r2" xlink:href="#r2"/><use href="#r2" xlink:href="#r2" x="1892"/></g></g>
+      <g transform="translate(0 238)" style="color:#ff4fd8"><g class="m3"><use href="#r3" xlink:href="#r3"/><use href="#r3" xlink:href="#r3" x="2236"/></g></g>
+      <g transform="translate(0 338)" style="color:#3dffa0"><g class="m4"><use href="#r4" xlink:href="#r4"/><use href="#r4" xlink:href="#r4" x="1892"/></g></g>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="899" height="399" rx="14" fill="none" stroke="#1c2740"/>
+</svg>

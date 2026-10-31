@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="256" viewBox="0 0 900 256" role="img" aria-label="I'm a software engineer passionate about building real-world applications, intelligent systems, and scalable backend architectures. I enjoy working across the entire development lifecycle, from designing databases and building APIs to developing modern interfaces, integrating LLMs, and deploying production-ready applications. I am particularly interested in the intersection of Software Engineering, Artificial Intelligence, and Autonomous Agents.">
+  <title>Bio</title>
+  <style>
+    text{font-family:'Fira Code','JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}
+    .l{font-size:15px;fill:#c9d6ee;opacity:0;animation:up .8s ease-out both}
+    @keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+    .kw{fill:#00f7ff;font-weight:700;animation:kw 4s ease-in-out infinite alternate}
+    @keyframes kw{from{fill:#00f7ff}to{fill:#b69cff}}
+  </style>
+  <rect width="900" height="256" rx="14" fill="#0a0e17"/>
+  <rect x=".5" y=".5" width="899" height="255" rx="14" fill="none" stroke="#1c2740"/>
+  <rect x="24" y="28" width="3" height="200" rx="1.5" fill="#1c2740"/>
+  <rect x="24" y="28" width="3" height="46" rx="1.5" fill="#00f7ff">
+    <animate attributeName="y" values="28;182;28" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <text class="l" x="48" y="54" style="animation-delay:.3s">I'm a <tspan class="kw">software engineer</tspan> passionate about building real-world applications,</text>
+  <text class="l" x="48" y="78" style="animation-delay:.7s"><tspan class="kw">intelligent systems</tspan>, and <tspan class="kw">scalable backend architectures</tspan>.</text>
+
+  <text class="l" x="48" y="120" style="animation-delay:1.3s">I enjoy working across the entire <tspan class="kw">development lifecycle</tspan> &#8212; from designing databases and</text>
+  <text class="l" x="48" y="144" style="animation-delay:1.7s">building APIs to developing modern interfaces, integrating <tspan class="kw">LLMs</tspan>, and deploying</text>
+  <text class="l" x="48" y="168" style="animation-delay:2.1s"><tspan class="kw">production-ready applications</tspan>.</text>
+
+  <text class="l" x="48" y="210" style="animation-delay:2.7s">I am particularly interested in the intersection of <tspan class="kw">Software Engineering</tspan>,</text>
+  <text class="l" x="48" y="234" style="animation-delay:3.1s"><tspan class="kw">Artificial Intelligence</tspan>, and <tspan class="kw">Autonomous Agents</tspan>.</text>
+</svg>

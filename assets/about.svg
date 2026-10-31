@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" role="img" aria-label="about.yaml. Name: Pravin Bhattarai. Location: India. Education: B.Tech Computer Science and Engineering at Roorkee Institute of Technology, graduating 2026. Roles: Software Engineer, Full Stack Developer, AI Engineer. Interests: Agentic AI and LLM Engineering, Backend Architecture, Distributed Systems, Full Stack Development, Cloud and DevOps Engineering. Currently exploring: Multi-Agent Systems, AI-Native Software Engineering, System Design, Scalable Backend Architecture. Philosophy: Build. Automate. Optimize. Ship.">
+  <title>about.yaml</title>
+  <defs>
+    <clipPath id="win"><rect width="900" height="470" rx="14"/></clipPath>
+    <radialGradient id="rg" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#00f7ff" stop-opacity=".0"/>
+      <stop offset="1" stop-color="#00f7ff" stop-opacity=".12"/>
+    </radialGradient>
+  </defs>
+  <style>
+    text{font-family:'Fira Code','JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}
+    .ln{font-size:15px;fill:#e6f1ff;clip-path:inset(0 100% 0 0);animation:type .7s steps(28,end) both}
+    @keyframes type{to{clip-path:inset(0 0 0 0)}}
+    .p{fill:#3dffa0;font-weight:700}
+    .k{fill:#00f7ff}
+    .v{fill:#e6f1ff}
+    .s{fill:#ffb86b}
+    .d{fill:#7a8aa8}
+    .ttl{font-size:12px;fill:#7a8aa8;letter-spacing:1px}
+    .blink{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .pulse{animation:pulse 2s ease-in-out infinite}
+    @keyframes pulse{50%{opacity:.3}}
+    .rl{font-size:10px;letter-spacing:1px;fill:#9fb0cf}
+    .ring{transform-box:fill-box;transform-origin:center;animation:ring 2.4s ease-out infinite}
+    @keyframes ring{from{transform:scale(1);opacity:.8}to{transform:scale(4);opacity:0}}
+    .late{opacity:0;animation:fadein .2s linear 11.9s forwards}
+    @keyframes fadein{to{opacity:1}}
+    .scan{animation:scan 7s linear infinite}
+    @keyframes scan{from{transform:translateY(40px)}to{transform:translateY(470px)}}
+  </style>
+
+  <g clip-path="url(#win)">
+    <rect width="900" height="470" fill="#0a0e17"/>
+    <rect width="900" height="40" fill="#0f1626"/>
+    <rect y="40" width="900" height="1" fill="#1c2740"/>
+    <circle cx="24" cy="20" r="6" fill="#ff5f56" class="pulse"/>
+    <circle cx="46" cy="20" r="6" fill="#ffbd2e" class="pulse" style="animation-delay:.3s"/>
+    <circle cx="68" cy="20" r="6" fill="#27c93f" class="pulse" style="animation-delay:.6s"/>
+    <text class="ttl" x="450" y="24" text-anchor="middle">pravin@portfolio: ~/about</text>
+
+    <rect class="scan" width="900" height="3" fill="#00f7ff" opacity=".07"/>
+
+    <text class="ln" x="28" y="80" style="animation-delay:.5s"><tspan class="p">$</tspan> <tspan class="v">cat about.yaml</tspan></text>
+    <text class="ln" x="28" y="104" style="animation-delay:1.25s"><tspan class="k">name:</tspan> <tspan class="v">Pravin Bhattarai</tspan></text>
+    <text class="ln" x="28" y="128" style="animation-delay:2s"><tspan class="k">location:</tspan> <tspan class="v">India</tspan></text>
+    <text class="ln" x="28" y="152" style="animation-delay:2.75s"><tspan class="k">education:</tspan> <tspan class="v">B.Tech Computer Science and Engineering</tspan></text>
+    <text class="ln" x="28" y="176" style="animation-delay:3.5s"><tspan class="k">university:</tspan> <tspan class="v">Roorkee Institute of Technology</tspan></text>
+    <text class="ln" x="28" y="200" style="animation-delay:4.25s"><tspan class="k">graduation:</tspan> <tspan class="s">2026</tspan></text>
+    <text class="ln" x="28" y="224" style="animation-delay:5s"><tspan class="k">role:</tspan> <tspan class="s">[Software Engineer, Full Stack Developer, AI Engineer]</tspan></text>
+    <text class="ln" x="28" y="248" style="animation-delay:5.75s"><tspan class="k">interests:</tspan></text>
+    <text class="ln" x="52" y="272" style="animation-delay:6.5s"><tspan class="d">-</tspan> <tspan class="v">Agentic AI &amp; LLM Engineering</tspan></text>
+    <text class="ln" x="52" y="296" style="animation-delay:7.25s"><tspan class="d">-</tspan> <tspan class="v">Backend Architecture &#183; Distributed Systems</tspan></text>
+    <text class="ln" x="52" y="320" style="animation-delay:8s"><tspan class="d">-</tspan> <tspan class="v">Full Stack Development &#183; Cloud &amp; DevOps Engineering</tspan></text>
+    <text class="ln" x="28" y="344" style="animation-delay:8.75s"><tspan class="k">currently_exploring:</tspan></text>
+    <text class="ln" x="52" y="368" style="animation-delay:9.5s"><tspan class="d">-</tspan> <tspan class="v">Multi-Agent Systems &#183; AI-Native Software Engineering</tspan></text>
+    <text class="ln" x="52" y="392" style="animation-delay:10.25s"><tspan class="d">-</tspan> <tspan class="v">System Design &#183; Scalable Backend Architecture</tspan></text>
+    <text class="ln" x="28" y="416" style="animation-delay:11s"><tspan class="k">philosophy:</tspan> <tspan class="s">"Build. Automate. Optimize. Ship."</tspan></text>
+
+    <g class="late">
+      <text x="28" y="440" font-size="15" class="p">$</text>
+      <rect class="blink" x="44" y="427" width="9" height="16" fill="#00f7ff"/>
+    </g>
+
+    <g transform="translate(750 268)">
+      <circle r="110" fill="url(#rg)"/>
+      <circle r="110" fill="none" stroke="#00f7ff" stroke-opacity=".3"/>
+      <circle r="75" fill="none" stroke="#00f7ff" stroke-opacity=".22"/>
+      <circle r="40" fill="none" stroke="#00f7ff" stroke-opacity=".18"/>
+      <path d="M-110 0H110M0 -110V110" stroke="#00f7ff" stroke-opacity=".18"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
+        <path d="M0 0L110 0A110 110 0 0 0 84.3 -70.7Z" fill="#00f7ff" fill-opacity=".2"/>
+        <path d="M0 0L110 0" stroke="#00f7ff" stroke-width="2"/>
+      </g>
+      <g fill="#3dffa0">
+        <circle cx="-50" cy="-60" r="3.5" class="pulse"/>
+        <circle cx="62" cy="-30" r="3.5" class="pulse" style="animation-delay:.5s"/>
+        <circle cx="30" cy="70" r="3.5" class="pulse" style="animation-delay:1s"/>
+        <circle cx="-70" cy="35" r="3.5" class="pulse" style="animation-delay:1.5s"/>
+        <circle cx="-8" cy="-18" r="3.5" class="pulse" style="animation-delay:.8s"/>
+      </g>
+      <g fill="none" stroke="#3dffa0">
+        <circle class="ring" cx="-50" cy="-60" r="3.5"/>
+        <circle class="ring" cx="62" cy="-30" r="3.5" style="animation-delay:.5s"/>
+        <circle class="ring" cx="30" cy="70" r="3.5" style="animation-delay:1s"/>
+        <circle class="ring" cx="-70" cy="35" r="3.5" style="animation-delay:1.5s"/>
+      </g>
+      <text class="rl" x="-58" y="-56" text-anchor="end">AGENTS</text>
+      <text class="rl" x="70" y="-26">BACKEND</text>
+      <text class="rl" x="38" y="74">FULL STACK</text>
+      <text class="rl" x="-78" y="39" text-anchor="end">CLOUD</text>
+      <text class="rl" x="0" y="-26" text-anchor="middle">LLM</text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="899" height="469" rx="14" fill="none" stroke="#1c2740"/>
+</svg>

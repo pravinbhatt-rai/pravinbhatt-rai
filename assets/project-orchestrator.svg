@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="310" viewBox="0 0 420 310" role="img" aria-label="Project 02. Multi-Agent AI Orchestrator, an AI coding agent management system. Python and FastAPI backend architecture, agent registration and execution workflows, task orchestration and structured interactions, context management and task isolation. Stack: Python, FastAPI, Pydantic, LangGraph, AI agents.">
+  <title>Multi-Agent AI Orchestrator</title>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7c5cff"/>
+      <stop offset="1" stop-color="#ff4fd8"/>
+    </linearGradient>
+    <linearGradient id="bgc" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1626"/>
+      <stop offset="1" stop-color="#0a0e17"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text{font-family:'Fira Code','JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}
+    .run{stroke-dasharray:140 860;animation:run 6s linear infinite}
+    @keyframes run{to{stroke-dashoffset:-1000}}
+    .num{font-size:11px;letter-spacing:3px;fill:#7a8aa8}
+    .ttl{font-size:17px;font-weight:700;fill:#e6f1ff;letter-spacing:.5px}
+    .sub{font-size:12px;fill:#00f7ff}
+    .b{opacity:0;animation:in .6s ease-out both}
+    @keyframes in{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:translateX(0)}}
+    .bt{font-size:12px;fill:#c9d6ee}
+    .lab{font-size:10px;letter-spacing:2px;fill:#7a8aa8}
+    .stk{font-size:11.5px;fill:#9fb0cf}
+    .ping{transform-box:fill-box;transform-origin:center;animation:ping 2.4s ease-out infinite}
+    @keyframes ping{from{transform:scale(1);opacity:.7}to{transform:scale(3);opacity:0}}
+  </style>
+  <rect x="1" y="1" width="418" height="308" rx="16" fill="url(#bgc)" stroke="#1c2740"/>
+  <rect x="1" y="1" width="418" height="308" rx="16" fill="none" stroke="url(#edge)" stroke-width="2" pathLength="1000" class="run"/>
+
+  <text class="num" x="24" y="34">02 / PROJECT</text>
+  <text class="ttl" x="24" y="62">MULTI-AGENT AI ORCHESTRATOR</text>
+  <text class="sub" x="24" y="84">AI Coding Agent Management System</text>
+
+  <g stroke="#7c5cff" stroke-opacity=".6" stroke-width="1.5">
+    <line x1="360" y1="43" x2="334" y2="22"/>
+    <line x1="360" y1="43" x2="386" y2="22"/>
+    <line x1="360" y1="43" x2="334" y2="64"/>
+    <line x1="360" y1="43" x2="386" y2="64"/>
+  </g>
+  <circle cx="360" cy="43" r="7" fill="#7c5cff"/>
+  <circle class="ping" cx="360" cy="43" r="7" fill="none" stroke="#7c5cff"/>
+  <g fill="#00f7ff">
+    <circle cx="334" cy="22" r="4.5"/>
+    <circle cx="386" cy="22" r="4.5"/>
+    <circle cx="334" cy="64" r="4.5"/>
+    <circle cx="386" cy="64" r="4.5"/>
+  </g>
+  <g fill="#e6f1ff">
+    <circle r="2.2"><animateMotion dur="2s" repeatCount="indefinite" path="M360,43 L334,22"/></circle>
+    <circle r="2.2"><animateMotion dur="2.4s" repeatCount="indefinite" path="M386,22 L360,43"/></circle>
+    <circle r="2.2"><animateMotion dur="2.2s" repeatCount="indefinite" path="M360,43 L334,64"/></circle>
+    <circle r="2.2"><animateMotion dur="1.8s" repeatCount="indefinite" path="M386,64 L360,43"/></circle>
+  </g>
+
+  <line x1="24" y1="100" x2="396" y2="100" stroke="#1c2740"/>
+
+  <g class="b" style="animation-delay:.3s"><path d="M28 118l6 4-6 4z" fill="#9d86ff"/><text class="bt" x="44" y="127">Python/FastAPI backend architecture</text></g>
+  <g class="b" style="animation-delay:.6s"><path d="M28 141l6 4-6 4z" fill="#9d86ff"/><text class="bt" x="44" y="150">Agent registration and execution workflows</text></g>
+  <g class="b" style="animation-delay:.9s"><path d="M28 164l6 4-6 4z" fill="#9d86ff"/><text class="bt" x="44" y="173">Task orchestration &amp; structured interactions</text></g>
+  <g class="b" style="animation-delay:1.2s"><path d="M28 187l6 4-6 4z" fill="#9d86ff"/><text class="bt" x="44" y="196">Context management and task isolation</text></g>
+
+  <line x1="24" y1="232" x2="396" y2="232" stroke="#1c2740"/>
+  <text class="lab" x="24" y="250">STACK</text>
+  <text class="stk" x="24" y="268">Python &#183; FastAPI &#183; Pydantic</text>
+  <text class="stk" x="24" y="286">LangGraph &#183; AI Agents</text>
+</svg>

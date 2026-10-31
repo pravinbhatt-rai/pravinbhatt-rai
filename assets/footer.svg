@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-label="Build. Automate. Optimize. Ship. Designed and engineered by Pravin Bhattarai, 2026.">
+  <title>Pravin Bhattarai footer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0e17"/>
+      <stop offset="1" stop-color="#140b2e"/>
+    </linearGradient>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f7ff" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#7c5cff" stop-opacity=".5"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff4fd8" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#00f7ff" stop-opacity=".35"/>
+    </linearGradient>
+    <clipPath id="rc"><rect width="900" height="180" rx="18"/></clipPath>
+  </defs>
+  <style>
+    text{font-family:'Fira Code','JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}
+    .mot{font-size:15px;font-weight:700;letter-spacing:6px;text-anchor:middle;animation:hue 6s ease-in-out infinite alternate}
+    @keyframes hue{from{fill:#00f7ff}50%{fill:#9d86ff}to{fill:#ff4fd8}}
+    .cr{font-size:12px;fill:#7a8aa8;letter-spacing:1px;text-anchor:middle}
+    .tw{animation:tw 3s ease-in-out infinite}
+    @keyframes tw{0%,100%{opacity:.15}50%{opacity:1}}
+  </style>
+  <g clip-path="url(#rc)">
+    <rect width="900" height="180" fill="url(#bg)"/>
+    <g fill="#e6f1ff">
+      <circle class="tw" cx="60" cy="24" r="1.6"/>
+      <circle class="tw" cx="150" cy="52" r="1.2" style="animation-delay:.8s"/>
+      <circle class="tw" cx="240" cy="18" r="1.8" style="animation-delay:1.6s"/>
+      <circle class="tw" cx="330" cy="46" r="1.2" style="animation-delay:.4s"/>
+      <circle class="tw" cx="420" cy="20" r="1.6" style="animation-delay:2.2s"/>
+      <circle class="tw" cx="510" cy="50" r="1.2" style="animation-delay:1.2s"/>
+      <circle class="tw" cx="600" cy="16" r="1.8" style="animation-delay:.2s"/>
+      <circle class="tw" cx="690" cy="44" r="1.2" style="animation-delay:1.9s"/>
+      <circle class="tw" cx="780" cy="22" r="1.6" style="animation-delay:.6s"/>
+      <circle class="tw" cx="850" cy="54" r="1.2" style="animation-delay:2.5s"/>
+    </g>
+    <text class="mot" x="450" y="78">BUILD. AUTOMATE. OPTIMIZE. SHIP.</text>
+    <text class="cr" x="450" y="106">Designed &amp; Engineered by Pravin Bhattarai &#183; 2026</text>
+
+    <path fill="url(#w2)" d="M0,138 C150,158 300,118 450,138 S750,158 900,138 L900,180 L0,180 Z">
+      <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0,138 C150,158 300,118 450,138 S750,158 900,138 L900,180 L0,180 Z;M0,138 C150,118 300,158 450,138 S750,118 900,138 L900,180 L0,180 Z;M0,138 C150,158 300,118 450,138 S750,158 900,138 L900,180 L0,180 Z"/>
+    </path>
+    <path fill="url(#w1)" d="M0,148 C150,128 300,168 450,148 S750,128 900,148 L900,180 L0,180 Z">
+      <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0,148 C150,128 300,168 450,148 S750,128 900,148 L900,180 L0,180 Z;M0,148 C150,168 300,128 450,148 S750,168 900,148 L900,180 L0,180 Z;M0,148 C150,128 300,168 450,148 S750,128 900,148 L900,180 L0,180 Z"/>
+    </path>
+  </g>
+  <rect x=".5" y=".5" width="899" height="179" rx="18" fill="none" stroke="#1c2740"/>
+</svg>
