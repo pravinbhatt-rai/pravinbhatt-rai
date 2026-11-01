@@ -2,17 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:3B3BF2,55:7C3AED,100:FF6A45&text=Pravin%20Bhattarai&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Full%20Stack%20%C2%B7%20AI%20%2F%20LLM%20Engineer&descSize=20&descAlignY=60" alt="Pravin Bhattarai, Software Engineer, Full Stack Developer, AI and LLM Engineer" width="100%">
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=3B3BF2&center=true&vCenter=true&width=720&height=44&lines=Building+intelligent+systems.;Engineering+scalable+products.;Turning+ideas+into+reality.;Backend+%26+Systems+Developer;Multi-Agent+Systems+%7C+LLMs+%7C+FastAPI" alt="Building intelligent systems. Engineering scalable products. Turning ideas into reality."></a>
+<a href="https://github.com/pravinbhatt-rai/pravinbhatt-rai"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=3B3BF2&center=true&vCenter=true&width=720&height=44&lines=Building+intelligent+systems.;Engineering+scalable+products.;Turning+ideas+into+reality.;Backend+%26+Systems+Developer;Multi-Agent+Systems+%7C+LLMs+%7C+FastAPI" alt="Building intelligent systems. Engineering scalable products. Turning ideas into reality."></a>
 
 <br>
 
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/%E2%96%B6%20OPEN%20MY%20INTERACTIVE%20PORTFOLIO-3B3BF2?style=for-the-badge" alt="Open my interactive portfolio"></a>
+<a href="https://pravinbhatt-rai.github.io/pravinbhatt-rai/"><img src="https://img.shields.io/badge/%E2%96%B6%20OPEN%20MY%20INTERACTIVE%20PORTFOLIO-3B3BF2?style=for-the-badge" alt="Open my interactive portfolio"></a>
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0F1330?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/pravin-bhattarai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/pravinbhatt-rai"><img src="https://img.shields.io/badge/GitHub-0F1330?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:bhattaraipravin455@gmail.com"><img src="https://img.shields.io/badge/Email-FF6A45?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=3B3BF2&label=PROFILE+VIEWS" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=pravinbhatt-rai&style=for-the-badge&color=3B3BF2&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
@@ -33,7 +33,7 @@ I'm particularly interested in the intersection of **Software Engineering**, **A
 <tr><td><b>Philosophy</b></td><td colspan="3"><i>Build. Automate. Optimize. Ship.</i></td></tr>
 </table>
 
-> **Want to explore this properly?** The [interactive portfolio](YOUR_PORTFOLIO_URL) lets you search my skills and click any one to see which projects used it.
+> **Want to explore this properly?** The [interactive portfolio](https://pravinbhatt-rai.github.io/pravinbhatt-rai/) lets you search my skills and click any one to see which projects used it.
 
 ---
 
@@ -225,8 +225,8 @@ I enjoy solving algorithmic problems and improving my understanding of computer 
 
 <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-3B3BF2?style=for-the-badge" alt="Data Structures and Algorithms"> <img src="https://img.shields.io/badge/Dynamic%20Programming-3B3BF2?style=for-the-badge" alt="Dynamic Programming"> <img src="https://img.shields.io/badge/Graph%20Algorithms-3B3BF2?style=for-the-badge" alt="Graph Algorithms"> <img src="https://img.shields.io/badge/Trees%20%26%20Binary%20Search-3B3BF2?style=for-the-badge" alt="Trees and Binary Search"> <img src="https://img.shields.io/badge/Greedy%20Algorithms-3B3BF2?style=for-the-badge" alt="Greedy Algorithms"> <img src="https://img.shields.io/badge/Sliding%20Window%20%26%20Two%20Pointers-3B3BF2?style=for-the-badge" alt="Sliding Window and Two Pointers"> <img src="https://img.shields.io/badge/SQL%20%26%20DB%20Optimization-3B3BF2?style=for-the-badge" alt="SQL and DB Optimization"> <img src="https://img.shields.io/badge/System%20Design-3B3BF2?style=for-the-badge" alt="System Design">
 
-<a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-<a href="YOUR_CODEFORCES_URL"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+<a href="https://leetcode.com/u/pravinbhattarai/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://codeforces.com/profile/Praveen9000"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
 
 ---
 
@@ -234,12 +234,12 @@ I enjoy solving algorithmic problems and improving my understanding of computer 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&bg_color=0B0E1F&title_color=8A8AFF&text_color=EEF0FF&icon_color=FF6A45&border_radius=16" alt="GitHub stats">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0B0E1F&title_color=8A8AFF&text_color=EEF0FF&border_radius=16" alt="Top languages">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pravinbhatt-rai&show_icons=true&hide_border=true&count_private=true&bg_color=0B0E1F&title_color=8A8AFF&text_color=EEF0FF&icon_color=FF6A45&border_radius=16" alt="GitHub stats">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinbhatt-rai&layout=compact&hide_border=true&bg_color=0B0E1F&title_color=8A8AFF&text_color=EEF0FF&border_radius=16" alt="Top languages">
 
-<img width="92%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0B0E1F&ring=8A8AFF&fire=FF6A45&currStreakNum=EEF0FF&currStreakLabel=8A8AFF&sideNums=EEF0FF&sideLabels=9AA2CC&dates=9AA2CC&border=262C55&borderRadius=16" alt="Contribution streak">
+<img width="92%" src="https://streak-stats.demolab.com?user=pravinbhatt-rai&hide_border=true&background=0B0E1F&ring=8A8AFF&fire=FF6A45&currStreakNum=EEF0FF&currStreakLabel=8A8AFF&sideNums=EEF0FF&sideLabels=9AA2CC&dates=9AA2CC&border=262C55&borderRadius=16" alt="Contribution streak">
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0B0E1F&color=EEF0FF&line=8A8AFF&point=FF6A45&area=true&area_color=3B3BF2&hide_border=true&radius=16" alt="Contribution activity graph">
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=pravinbhatt-rai&bg_color=0B0E1F&color=EEF0FF&line=8A8AFF&point=FF6A45&area=true&area_color=3B3BF2&hide_border=true&radius=16" alt="Contribution activity graph">
 
 </div>
 
