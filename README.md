@@ -8,9 +8,7 @@
 
 <a href="https://pravinbhatt-rai.github.io/pravinbhatt-rai/"><img src="https://img.shields.io/badge/%E2%96%B6%20OPEN%20MY%20INTERACTIVE%20PORTFOLIO-3B3BF2?style=for-the-badge" alt="Open my interactive portfolio"></a>
 
-<a href="https://www.linkedin.com/in/pravin-bhattarai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/pravinbhatt-rai"><img src="https://img.shields.io/badge/GitHub-0F1330?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:bhattaraipravin455@gmail.com"><img src="https://img.shields.io/badge/Email-FF6A45?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/pravin-bhattarai" title="LinkedIn"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=0A66C2" width="44" height="44" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/pravinbhatt-rai" title="GitHub"><img src="https://api.iconify.design/simple-icons/github.svg?color=%238A8AFF" width="44" height="44" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:bhattaraipravin455@gmail.com" title="Email"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=FF6A45" width="44" height="44" alt="Email"></a>
 
 <img src="https://komarev.com/ghpvc/?username=pravinbhatt-rai&style=for-the-badge&color=3B3BF2&label=PROFILE+VIEWS" alt="Profile views">
 
@@ -121,11 +119,23 @@ I'm particularly interested in the intersection of **Software Engineering**, **A
 </table>
 </div>
 
-**AI, LLMs and agents**<br>
-<img src="https://img.shields.io/badge/LLMs-3B3BF2?style=for-the-badge" alt="LLMs"> <img src="https://img.shields.io/badge/RAG-3B3BF2?style=for-the-badge" alt="RAG"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"> <img src="https://img.shields.io/badge/AI%20Agents-FF6A45?style=for-the-badge" alt="AI Agents"> <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6A45?style=for-the-badge" alt="Prompt Engineering"> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"> <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic">
+**AI, LLMs and agents**
 
-**Engineering areas**<br>
-<img src="https://img.shields.io/badge/REST%20API%20Design-0F1330?style=for-the-badge" alt="REST API Design"> <img src="https://img.shields.io/badge/WebSockets-0F1330?style=for-the-badge" alt="WebSockets"> <img src="https://img.shields.io/badge/OAuth-0F1330?style=for-the-badge" alt="OAuth"> <img src="https://img.shields.io/badge/Authentication-0F1330?style=for-the-badge" alt="Authentication"> <img src="https://img.shields.io/badge/CI/CD-0F1330?style=for-the-badge" alt="CI/CD"> <img src="https://img.shields.io/badge/Microservices-0F1330?style=for-the-badge" alt="Microservices"> <img src="https://img.shields.io/badge/Technical%20SEO-0F1330?style=for-the-badge" alt="Technical SEO"> <img src="https://img.shields.io/badge/Schema%20Markup-0F1330?style=for-the-badge" alt="Schema Markup"> <img src="https://img.shields.io/badge/Database%20Optimization-0F1330?style=for-the-badge" alt="Database Optimization"> <img src="https://img.shields.io/badge/System%20Design-0F1330?style=for-the-badge" alt="System Design">
+<div align="center">
+<table>
+<tr><td align="center" width="120"><img src="https://api.iconify.design/mdi/brain.svg?color=%238A8AFF" width="44" height="44" alt="LLMs" title="LLMs"><br><sub><b>LLMs</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/mdi/database-search.svg?color=%238A8AFF" width="44" height="44" alt="RAG" title="RAG"><br><sub><b>RAG</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/simple-icons/langchain.svg?color=%238A8AFF" width="44" height="44" alt="LangChain" title="LangChain"><br><sub><b>LangChain</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/mdi/graph-outline.svg?color=%238A8AFF" width="44" height="44" alt="LangGraph" title="LangGraph"><br><sub><b>LangGraph</b></sub></td></tr>
+<tr><td align="center" width="120"><img src="https://api.iconify.design/mdi/robot-outline.svg?color=%238A8AFF" width="44" height="44" alt="AI Agents" title="AI Agents"><br><sub><b>AI Agents</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/mdi/message-text-outline.svg?color=%238A8AFF" width="44" height="44" alt="Prompt Engineering" title="Prompt Engineering"><br><sub><b>Prompt Engineering</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/simple-icons/qdrant.svg?color=%238A8AFF" width="44" height="44" alt="Qdrant" title="Qdrant"><br><sub><b>Qdrant</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/simple-icons/pydantic.svg?color=%238A8AFF" width="44" height="44" alt="Pydantic" title="Pydantic"><br><sub><b>Pydantic</b></sub></td></tr>
+</table>
+</div>
+
+**Engineering areas**
+
+<div align="center">
+<table>
+<tr><td align="center" width="120"><img src="https://api.iconify.design/mdi/api.svg?color=%238A8AFF" width="44" height="44" alt="REST API Design" title="REST API Design"><br><sub><b>REST API Design</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/mdi/lan-connect.svg?color=%238A8AFF" width="44" height="44" alt="WebSockets" title="WebSockets"><br><sub><b>WebSockets</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/mdi/shield-lock-outline.svg?color=%238A8AFF" width="44" height="44" alt="OAuth" title="OAuth"><br><sub><b>OAuth</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/mdi/account-lock-outline.svg?color=%238A8AFF" width="44" height="44" alt="Authentication" title="Authentication"><br><sub><b>Authentication</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/mdi/source-branch-sync.svg?color=%238A8AFF" width="44" height="44" alt="CI/CD" title="CI/CD"><br><sub><b>CI/CD</b></sub></td></tr>
+<tr><td align="center" width="120"><img src="https://api.iconify.design/mdi/sitemap-outline.svg?color=%238A8AFF" width="44" height="44" alt="Microservices" title="Microservices"><br><sub><b>Microservices</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/mdi/search-web.svg?color=%238A8AFF" width="44" height="44" alt="Technical SEO" title="Technical SEO"><br><sub><b>Technical SEO</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/mdi/code-json.svg?color=%238A8AFF" width="44" height="44" alt="Schema Markup" title="Schema Markup"><br><sub><b>Schema Markup</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/mdi/database-cog.svg?color=%238A8AFF" width="44" height="44" alt="DB Optimization" title="DB Optimization"><br><sub><b>DB Optimization</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/mdi/server-network.svg?color=%238A8AFF" width="44" height="44" alt="System Design" title="System Design"><br><sub><b>System Design</b></sub></td></tr>
+</table>
+</div>
 
 ---
 
@@ -143,7 +153,7 @@ A financial platform built from scratch with intelligent loan recommendation cap
 - Worked on data retrieval, processing and API performance
 
 <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=light" width="52" height="52" alt="Python"></a>
-<img src="https://img.shields.io/badge/RAG-3B3BF2?style=for-the-badge" alt="RAG"> <img src="https://img.shields.io/badge/LLMs-3B3BF2?style=for-the-badge" alt="LLMs"> <img src="https://img.shields.io/badge/APIs-0F1330?style=for-the-badge" alt="APIs"> <img src="https://img.shields.io/badge/LIVE-sixfinance.app-12A36B?style=for-the-badge" alt="Live at sixfinance.app">
+<img src="https://api.iconify.design/mdi/database-search.svg?color=%238A8AFF" width="40" height="40" alt="RAG" title="RAG"> <img src="https://api.iconify.design/mdi/brain.svg?color=%238A8AFF" width="40" height="40" alt="LLMs" title="LLMs"> <img src="https://api.iconify.design/mdi/api.svg?color=%238A8AFF" width="40" height="40" alt="APIs" title="APIs"> <img src="https://img.shields.io/badge/LIVE-sixfinance.app-12A36B?style=for-the-badge" alt="Live at sixfinance.app">
 
 </details>
 
@@ -160,7 +170,7 @@ A backend-oriented platform designed to coordinate AI coding agents and manage t
 
 <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=light" width="52" height="52" alt="Python"></a>
 <a href="https://fastapi.tiangolo.com" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi&theme=light" width="52" height="52" alt="FastAPI"></a>
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"> <img src="https://img.shields.io/badge/AI%20Agents-FF6A45?style=for-the-badge" alt="AI Agents">
+<img src="https://api.iconify.design/simple-icons/pydantic.svg?color=%238A8AFF" width="40" height="40" alt="Pydantic" title="Pydantic"> <img src="https://api.iconify.design/mdi/graph-outline.svg?color=%238A8AFF" width="40" height="40" alt="LangGraph" title="LangGraph"> <img src="https://api.iconify.design/mdi/robot-outline.svg?color=%238A8AFF" width="40" height="40" alt="AI Agents" title="AI Agents">
 
 </details>
 
@@ -180,7 +190,7 @@ A paper-trading platform focused on market data processing and strategy simulati
 <a href="https://fastapi.tiangolo.com" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi&theme=light" width="52" height="52" alt="FastAPI"></a>
 <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=light" width="52" height="52" alt="PostgreSQL"></a>
 <a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react&theme=light" width="52" height="52" alt="React"></a>
-<img src="https://img.shields.io/badge/WebSockets-0E9F8E?style=for-the-badge" alt="WebSockets">
+<img src="https://api.iconify.design/mdi/lan-connect.svg?color=%238A8AFF" width="40" height="40" alt="WebSockets" title="WebSockets">
 
 </details>
 
@@ -202,7 +212,7 @@ An application combining modern full-stack infrastructure with AI-powered capabi
 <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=light" width="52" height="52" alt="PostgreSQL"></a>
 <a href="https://redis.io" title="Redis"><img src="https://skillicons.dev/icons?i=redis&theme=light" width="52" height="52" alt="Redis"></a>
 <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=light" width="52" height="52" alt="Docker"></a>
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant">
+<img src="https://api.iconify.design/simple-icons/qdrant.svg?color=%238A8AFF" width="40" height="40" alt="Qdrant" title="Qdrant">
 
 </details>
 
@@ -223,10 +233,16 @@ An application combining modern full-stack infrastructure with AI-powered capabi
 
 I enjoy solving algorithmic problems and improving my understanding of computer science fundamentals.
 
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-3B3BF2?style=for-the-badge" alt="Data Structures and Algorithms"> <img src="https://img.shields.io/badge/Dynamic%20Programming-3B3BF2?style=for-the-badge" alt="Dynamic Programming"> <img src="https://img.shields.io/badge/Graph%20Algorithms-3B3BF2?style=for-the-badge" alt="Graph Algorithms"> <img src="https://img.shields.io/badge/Trees%20%26%20Binary%20Search-3B3BF2?style=for-the-badge" alt="Trees and Binary Search"> <img src="https://img.shields.io/badge/Greedy%20Algorithms-3B3BF2?style=for-the-badge" alt="Greedy Algorithms"> <img src="https://img.shields.io/badge/Sliding%20Window%20%26%20Two%20Pointers-3B3BF2?style=for-the-badge" alt="Sliding Window and Two Pointers"> <img src="https://img.shields.io/badge/SQL%20%26%20DB%20Optimization-3B3BF2?style=for-the-badge" alt="SQL and DB Optimization"> <img src="https://img.shields.io/badge/System%20Design-3B3BF2?style=for-the-badge" alt="System Design">
+<div align="center">
+<table>
+<tr><td align="center" width="120"><img src="https://api.iconify.design/mdi/code-braces.svg?color=%238A8AFF" width="44" height="44" alt="Data Structures & Algorithms" title="Data Structures & Algorithms"><br><sub><b>Data Structures & Algorithms</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/mdi/grid.svg?color=%238A8AFF" width="44" height="44" alt="Dynamic Programming" title="Dynamic Programming"><br><sub><b>Dynamic Programming</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/mdi/vector-polyline.svg?color=%238A8AFF" width="44" height="44" alt="Graph Algorithms" title="Graph Algorithms"><br><sub><b>Graph Algorithms</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/mdi/file-tree.svg?color=%238A8AFF" width="44" height="44" alt="Trees & Binary Search" title="Trees & Binary Search"><br><sub><b>Trees & Binary Search</b></sub></td></tr>
+<tr><td align="center" width="120"><img src="https://api.iconify.design/mdi/lightning-bolt.svg?color=%238A8AFF" width="44" height="44" alt="Greedy Algorithms" title="Greedy Algorithms"><br><sub><b>Greedy Algorithms</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/mdi/arrow-left-right.svg?color=%238A8AFF" width="44" height="44" alt="Sliding Window & Two Pointers" title="Sliding Window & Two Pointers"><br><sub><b>Sliding Window & Two Pointers</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/mdi/database.svg?color=%238A8AFF" width="44" height="44" alt="SQL & DB Optimization" title="SQL & DB Optimization"><br><sub><b>SQL & DB Optimization</b></sub></td><td align="center" width="120"><img src="https://api.iconify.design/mdi/server-network.svg?color=%238A8AFF" width="44" height="44" alt="System Design" title="System Design"><br><sub><b>System Design</b></sub></td></tr>
+</table>
+</div>
 
-<a href="https://leetcode.com/u/pravinbhattarai/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-<a href="https://codeforces.com/profile/Praveen9000"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+<div align="center">
+<a href="https://leetcode.com/u/pravinbhattarai/" title="LeetCode"><img src="https://api.iconify.design/simple-icons/leetcode.svg?color=FFA116" width="40" height="40" alt="LeetCode"></a>&nbsp;&nbsp;&nbsp;<a href="https://codeforces.com/profile/Praveen9000" title="Codeforces"><img src="https://api.iconify.design/simple-icons/codeforces.svg?color=1F8ACB" width="40" height="40" alt="Codeforces"></a>
+</div>
 
 ---
 
@@ -234,12 +250,11 @@ I enjoy solving algorithmic problems and improving my understanding of computer 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=pravinbhatt-rai&show_icons=true&hide_border=true&count_private=true&bg_color=0B0E1F&title_color=8A8AFF&text_color=EEF0FF&icon_color=FF6A45&border_radius=16" alt="GitHub stats">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinbhatt-rai&layout=compact&hide_border=true&bg_color=0B0E1F&title_color=8A8AFF&text_color=EEF0FF&border_radius=16" alt="Top languages">
+<a href="https://github.com/pravinbhatt-rai"><img src="https://img.shields.io/github/followers/pravinbhatt-rai?style=for-the-badge&logo=github&logoColor=white&color=3B3BF2&labelColor=0F1330" alt="GitHub followers"></a>
 
 <img width="92%" src="https://streak-stats.demolab.com?user=pravinbhatt-rai&hide_border=true&background=0B0E1F&ring=8A8AFF&fire=FF6A45&currStreakNum=EEF0FF&currStreakLabel=8A8AFF&sideNums=EEF0FF&sideLabels=9AA2CC&dates=9AA2CC&border=262C55&borderRadius=16" alt="Contribution streak">
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=pravinbhatt-rai&bg_color=0B0E1F&color=EEF0FF&line=8A8AFF&point=FF6A45&area=true&area_color=3B3BF2&hide_border=true&radius=16" alt="Contribution activity graph">
+<img width="92%" src="https://ghchart.rshah.org/3B3BF2/pravinbhatt-rai" alt="Contribution graph">
 
 </div>
 
