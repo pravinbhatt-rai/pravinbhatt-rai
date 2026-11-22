@@ -276,7 +276,7 @@ I enjoy solving algorithmic problems and improving my understanding of computer 
 
 I'm always interested in collaborating on challenging engineering problems, AI-powered products, open-source projects and innovative ideas.
 
-<a href="mailto:bhattaraipravin455@gmail.com"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH-pravinbhattarai45%40gmail.com-FF6A45?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch: pravinbhattarai45@gmail.com"></a>
+<a href="mailto:pravinbhattarai45@gmail.com"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH-pravinbhattarai45%40gmail.com-FF6A45?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch: pravinbhattarai45@gmail.com"></a>
 
 *"The best way to predict the future is to build it."*
 
